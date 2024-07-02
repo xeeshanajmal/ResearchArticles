@@ -1,6 +1,6 @@
 # Quantum Computing and Cybersecurity: Preparing for the Future
 
-![image](https://github.com/xeeshanajmal/ResearchArticles/assets/98887868/857db6f0-5ebf-4dd8-b6ee-1cf44a661544)
+![image](https://github.com/xeeshanajmal/ResearchArticles/assets/98887868/b93c6e0f-4aed-401e-9843-3e5c99025831)
 
 In the ever-evolving landscape of technology, quantum computing stands out as a revolutionary force that promises to transform numerous fields. One area poised for significant upheaval is cybersecurity. As quantum computing continues to develop, it will both challenge and enhance the ways we protect digital information. This post delves into the fundamentals of quantum computing and explores its potential effects on cybersecurity in the future.
 
